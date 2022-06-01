@@ -51,7 +51,7 @@ class Home extends Component {
           <div className="mint-right">
             <img src={goblin} className="nootimg" />
             <h1 className="mint-title">
-              towny goblins
+              TinyGoblins.wtf
             </h1>
             </div>
           <div className="mint-left">
@@ -59,7 +59,7 @@ class Home extends Component {
               1 Free. Max 10 (0.0069Ξ).
             </h1>
             <div className="sold">
-                /4000
+                /2999
             </div>
             <div className="mint-function">
               <div className="mint-amt">
